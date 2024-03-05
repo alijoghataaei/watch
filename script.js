@@ -45,3 +45,4 @@ function run(){
 
 time()
 
+console.log("hi")
